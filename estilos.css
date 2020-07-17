@@ -1,0 +1,30 @@
+body{
+    background:grey;
+}
+.row{
+    margin-bottom: 20px;
+
+}
+header{
+    background: red;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+main{
+    background:#2EFEC8;
+    border-radius: 10px;
+}
+
+
+section {
+    background:#4f5ef5;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
+
